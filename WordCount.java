@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
-public class ExtractGenres {
+public class WordCount {
     public static void main(String[] args) throws Exception {
         Configuration conf = new Configuration();
 
