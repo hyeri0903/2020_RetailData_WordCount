@@ -3,4 +3,8 @@
 # Dataset
 OnelineRetail.csv
 
-column : InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+column names : InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+column num : 8
+row num : 541909
+
+
